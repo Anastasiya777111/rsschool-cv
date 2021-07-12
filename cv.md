@@ -30,5 +30,4 @@ return str.toUpperCase()
 
 1st September 2019 – present: Student of Belarusian State University of Informatics and Radioelectronics, Faculty of Information Technology and Management, Automated Information Processing Systems
 
-
 ### English language: B1
